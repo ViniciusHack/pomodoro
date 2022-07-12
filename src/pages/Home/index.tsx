@@ -6,7 +6,7 @@ import {
   MinutesAmountInput,
   Separator,
   StartCountdownButton,
-  TaskInput
+  TaskInput,
 } from './styles'
 
 export function Home() {
